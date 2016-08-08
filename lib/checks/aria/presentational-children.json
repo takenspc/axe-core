@@ -1,0 +1,11 @@
+{
+  "id": "aria-presentational-children",
+  "evaluate": "presentational-children.js",
+  "metadata": {
+    "impact": "critical",
+    "messages": {
+      "pass": "TODO",
+      "fail": "TODO"
+    }
+  }
+}

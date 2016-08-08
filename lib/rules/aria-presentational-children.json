@@ -1,0 +1,16 @@
+{
+  "id": "aria-presentational-children",
+  "tags": [
+    "wcag2a",
+    "wcag131"
+  ],
+  "metadata": {
+    "description": "TODO",
+    "help": "TODO"
+  },
+  "all": [],
+  "any": [
+    "aria-presentational-children"
+  ],
+  "none": []
+}
